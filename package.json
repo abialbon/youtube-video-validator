@@ -1,0 +1,25 @@
+{
+  "name": "youtube-video-validator",
+  "version": "1.0.0",
+  "description": "Small module to validate and fetch video ID from YouTube video URL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abialbon/youtube-video-validator.git"
+  },
+  "keywords": [
+    "youtube",
+    "validator",
+    "url",
+    "video"
+  ],
+  "author": "Abialbon Paul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abialbon/youtube-video-validator/issues"
+  },
+  "homepage": "https://github.com/abialbon/youtube-video-validator#readme"
+}
